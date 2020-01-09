@@ -1,58 +1,53 @@
-# Vefforritun 2, 2019
+# Vefforritun 2, 2020
 
-Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun 2 kenndan við HÍ vorið 2019.
+Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun 2 eftir Ólafur Sverrir Kjartansson, kenndan við HÍ vorið 2019.
 
 [Upptökur af fyrirlestrum eru á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozy9xtBk-02VNOnOoIFR84Oe).
-
-## Dæmatímar
-
-Sjá Uglu.
 
 ## Kennsluáætlun
 
 | Vika | Fimmtudagur   | Viðfangsefni                        | Verkefni       | Skil           |
 |------|-------------|---------------------------------------|----------------|----------------|
-|   1  | 10. janúar  | Kynning, node.js, ósamstillt forritun | Verkefni #1    |                |
-|   2  | 17. janúar  | Einingar, atburðir, express           |                |                |
-|   3  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
-|   4  | 31. janúar  | Öryggi                                |                |                |
-|   5  | 7. febrúar  | Auðkenning, Heroku                    | Verkefni #3    | Verkefni #2    |
-|      | 14. febrúar | **Fyrirlestur fellur niður**          |                |                |
-|   6  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
-|   7  | 28. febrúar | Vefþjónustur, redis & cache           | Hópverkefni #1 |                |
-|   8  | 7. mars     | React                                 | Verkefni #5    | Verkefni #4    |
-|   9  | 14. mars    | React                                 |                |                |
-|  10  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
-|      | 28. mars    | **Fyrirlestur fellur niður**          | Hópverkefni #2 | Hópverkefni #1 |
-|  11  | 4. apríl    | Bundling, Typescript                  |                | Verkefni #6    |
-|  12  | 11. apríl   | Upprifjun og um lokapróf              |                |                |
-|      | 18. apríl   | Páskafrí                              |                | Hópverkefni #2 |
+|   1  |    | Kynning, node.js, ósamstillt forritun | Verkefni #1    |                |
+|   2  |    | Einingar, atburðir, express           |                |                |
+|   3  |    | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
+|   4  |    | Öryggi                                |                |                |
+|   5  |    | Auðkenning, Heroku                    | Verkefni #3    | Verkefni #2    |
+|   6  |   | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
+|   7  |  | Vefþjónustur, redis & cache           | Hópverkefni #1 |                |
+|   8  |       | React                                 | Verkefni #5    | Verkefni #4    |
+|   9  |      | React                                 |                |                |
+|  10  |  | React, next.js                        | Verkefni #6    | Verkefni #5    |
+|      |     |           | Hópverkefni #2 | Hópverkefni #1 |
+|  11  |  | Bundling, Typescript                  |                | Verkefni #6    |
+|  12  |     | Upprifjun og um lokapróf              |                |                |
+|      |    |  |                | Hópverkefni #2 |
 
 ## Fyrirlestrar
 
-* [Fyrirlestur 1, 10. janúar](fyrirlestrar/01/)
+* [Fyrirlestur 1](fyrirlestrar/01/)
   - Kynning, node.js, ósamstillt forritun
-* [Fyrirlestur 2, 17. janúar](fyrirlestrar/02/)
+* [Fyrirlestur 2](fyrirlestrar/02/)
   - Einingar, atburðir, express
-* [Fyrirlestur 3, 24. janúar](fyrirlestrar/03/)
+* [Fyrirlestur 3](fyrirlestrar/03/)
   - HTTP, form, Postgres
-* [Fyrirlestur 4, 31. janúar](fyrirlestrar/04/)
+* [Fyrirlestur 4](fyrirlestrar/04/)
   - Öryggi
-* [Fyrirlestur 5, 7. febrúar](fyrirlestrar/05/)
+* [Fyrirlestur 5](fyrirlestrar/05/)
   - Auðkenning, Heroku
-* [Fyrirlestur 6, 21. febrúar](fyrirlestrar/06/)
+* [Fyrirlestur 6](fyrirlestrar/06/)
   - Vefþjónustur
-* [Fyrirlestur 7, 28. febrúar](fyrirlestrar/07/)
+* [Fyrirlestur 7](fyrirlestrar/07/)
   - Vefþjónustur, redis & cache
-* [Fyrirlestur 8, 7. mars](fyrirlestrar/08/)
+* [Fyrirlestur 8](fyrirlestrar/08/)
   - React
-* [Fyrirlestur 9, 14. mars](fyrirlestrar/09/)
+* [Fyrirlestur 9](fyrirlestrar/09/)
   - React
-* [Fyrirlestur 10, 21. mars](fyrirlestrar/10/)
+* [Fyrirlestur 10](fyrirlestrar/10/)
   - Flux & redux, Context & hooks, NextJS
-* [Fyrirlestur 11, 4. apríl](fyrirlestrar/11/)
+* [Fyrirlestur 11](fyrirlestrar/11/)
   - Webpack, TypeScript og næstu skref
-* [Fyrirlestur 12, 11. apríl](fyrirlestrar/12/)
+* [Fyrirlestur 12](fyrirlestrar/12/)
   - Upprifjun og lokapróf
 
 ## Ítarefni
@@ -174,39 +169,31 @@ Sjá Uglu.
 
 ## Verkefni
 
-Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
-
-Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
-
-* [Verkefni 1](https://github.com/vefforritun/vef2-2019-v1), sett fyrir 10. janúar, skilist 25. janúar
+* [Verkefni 1](https://github.com/vefforritun/vef2-2019-v1)
   - [Kynning á verkefni](https://youtu.be/ADmCKJJOzuk), [Nánar í fyrirlestri 2](https://youtu.be/MQBTq1yuxBA)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v1-synilausn)
-* [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2), sett fyrir 26. janúar, skilist 8. febrúar
+* [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2)
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=XHvDatOMwE4)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v2-synilausn)
-* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 10. febrúar, skilist 23. febrúar
+* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v3-synilausn)
-* [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
+* [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4)
   - [Kynning í fyrirlestri](https://youtu.be/I0QgiWtfCiY)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v4-synilausn)
-* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
+* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5)
   - [Kynning í fyrirlestri](https://youtu.be/upJ9i7bfUzc?t=1506)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v5-synilausn)
-* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
+* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6)
   - [Kynning í fyrirlestri](https://youtu.be/B3Kq7GTAYpg)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v6-synilausn)
 
 ## Hópverkefni
 
-* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 27. mars
+* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1)
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-h1-synilausn)
-* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 30. mars, skilist 19. apríl
+* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-h2-synilausn)
-
-## Einkunn
-
-Verkefnahluti gildir 60% og lokapróf gildir 40%. Ná verður *bæði* verkefnahluta og lokaprófi með lágmarkseinkunn 5.
 
 ---
 
